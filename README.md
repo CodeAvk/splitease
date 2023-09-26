@@ -23,6 +23,6 @@ A web-based Splitwise application built with React, allowing you to easily manag
 
 ## Demo
 
-[View Demo](https://your-splitwise-app-demo-url.com)
+[View Demo](https://splitease.netlify.app/)
 
 
